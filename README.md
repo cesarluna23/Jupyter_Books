@@ -1,2 +1,2 @@
 # Jupyter_Books
-DS Jupter Books
+DS Jupyter Books
